@@ -3,7 +3,7 @@ This is for my programming class!
 
 ## Notes
 See notebook!
-
+question: how to upload repos folder to github
 
 ## Homework
 - [ ] Install Processing (from Processing.org)
