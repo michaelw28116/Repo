@@ -2,11 +2,10 @@
 This is for my programming class!
 
 ## Notes
-See notebook!
-question: how to upload repos folder to github
+See notebook
 
 ## Homework
-Finished
+Come back later!
 
 
 ## Projects
