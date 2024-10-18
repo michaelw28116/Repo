@@ -27,10 +27,12 @@
 ![Jet](https://github.com/user-attachments/assets/f1691a54-4f03-4e82-a457-507a02dab73e)
 [Jet Fighter](https://www.foldnfly.com/24.html#Jet-Fighter)
 
-7. **Bird**
+7. **Sonic Jet**
+![Sonic](https://github.com/user-attachments/assets/1afff73a-5615-4534-b066-a1d729e4d371)
+[Sonic Jet](https://www.foldnfly.com/41.html#Sonic-Jet)
+
+8. **Bird**
 ![Bird](https://github.com/user-attachments/assets/735ed0b2-6327-4138-a7fd-04b799880e76)
 [Bird](https://www.foldnfly.com/32.html#The-Bird)
 
-8. **Sonic Jet**
-![Sonic](https://github.com/user-attachments/assets/1afff73a-5615-4534-b066-a1d729e4d371)
-[Sonic Jet](https://www.foldnfly.com/41.html#Sonic-Jet)
+
