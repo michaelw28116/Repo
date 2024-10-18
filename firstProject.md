@@ -1,7 +1,8 @@
 # Origami Project
 
-## 8 Directions (Paper Airplanes)
+## 8 Directions (Paper Airplanes) 
 
+### From simple to complex
 1. **Dart**
 ![Dart](https://github.com/user-attachments/assets/12233e75-be6c-4cc3-bae6-df434d540202)
 [Dart](https://www.foldnfly.com/1.html#Basic-Dart)
